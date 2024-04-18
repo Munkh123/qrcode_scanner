@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "native-base": "2",
+    "react-native-qrcode-scanner": "^1.5.5"
+  }
+}
